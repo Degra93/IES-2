@@ -1,0 +1,29 @@
+@import 'bootstrap';
+
+/* NAVBAR  */
+
+nav{
+    height: 100px;
+}
+.logo{
+    width: 80px;
+    height: 78px;
+}
+.nav-link{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blue;
+}
+.nav-link:hover{
+    transform: scale(1.2);
+}
+
+
+.dropdown-item:hover{
+    background-color: antiquewhite;
+}
+
+/* HEADER  */
+
+/* SECTION  */
+
+
